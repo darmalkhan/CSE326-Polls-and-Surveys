@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.Orange{
+    @apply bg-yellow-600;
+}
+
+
+.tap{
+    @apply bg-yellow-50 ring-offset-current;
+}
